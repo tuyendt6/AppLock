@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.MANAGE_USERS
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:18:5-103:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:21:9-41
+	android:manageSpaceActivity
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:22:9-79
+	android:allowBackup
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:20:9-48
+	android:theme
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.kidlandstudio.perfectapplock.MainActivity
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:24:9-35:20
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:26:13-45
+	android:windowSoftInputMode
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:29:13-54
+	android:theme
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:25:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.samsung.security.LockActivityByFingerprint
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:36:9-40:20
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:38:13-49
+	android:theme
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:39:13-83
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:37:13-74
+activity#com.samsung.security.LockActivityByPassWord
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:41:9-44:57
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:43:13-49
+	android:windowSoftInputMode
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:42:13-71
+activity#com.samsung.security.LockActivityByPattern
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:46:13-70
+activity#com.samsung.security.SecurityTypeActivity
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:48:9-51:57
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:50:13-49
+	android:windowSoftInputMode
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:49:13-69
+activity#com.samsung.ui.quickmode.KidModeActivity
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:53:13-68
+activity#com.samsung.ui.quickmode.FriendModeActivity
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:55:9-57:52
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:56:13-71
+activity#com.samsung.security.pattentdesign.PatternConfiguration
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:58:9-60:52
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:59:13-83
+activity#com.samsung.dialog.TrackDialogActivity
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:61:9-65:20
+	android:screenOrientation
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:64:13-67
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:62:13-66
+receiver#com.samsung.security.TrackAppReceiver
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:67:9-75:20
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:67:19-71
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED+android.intent.action.PACKAGE_REPLACED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:68:13-74:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:69:17-78
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:69:25-75
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:70:17-81
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:70:25-78
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:71:17-80
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:71:25-77
+data
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:73:17-50
+	android:scheme
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:73:23-47
+receiver#com.samsung.security.RebootReceiver
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:76:9-82:20
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:76:19-69
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:77:13-81:29
+	android:priority
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:77:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:78:17-79
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:78:25-76
+category#android.intent.category.DEFAULT
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:80:17-76
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:80:27-73
+receiver#com.kidlandstudio.perfectapplock.SampleDeviceAdminReceiver
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:83:9-95:20
+	android:permission
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:85:13-70
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:84:13-86
+meta-data#android.app.device_admin
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:86:13-88:56
+	android:resource
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:88:17-53
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:87:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_DISABLED+android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED+android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:90:13-94:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:91:17-82
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:91:25-79
+action#android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:92:17-92
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:92:25-89
+action#android.app.action.DEVICE_ADMIN_DISABLED
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:93:17-83
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:93:25-80
+service#com.android.service.ProtectAppService
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:97:9-98:19
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:97:18-70
+provider#com.samsung.contentprovider.LockAppProvider
+ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:100:9-102:65
+	android:authorities
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:102:13-62
+	android:name
+		ADDED from /home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/AndroidManifest.xml:101:13-71

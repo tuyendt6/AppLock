@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/menu/menu_kid_mode.xml",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/menu/menu_kid_mode.xml"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/menu/finger_print_answer_call.xml",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/menu/finger_print_answer_call.xml"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/menu/menu_locked_app.xml",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/menu/menu_locked_app.xml"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/menu/menu_friend_mode.xml",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/menu/menu_friend_mode.xml"
+    }
+]

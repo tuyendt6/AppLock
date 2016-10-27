@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_05.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_05.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_004.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_004.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_holo_light.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_018.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_018.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_019.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_019.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_wet.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_wet.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_015.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_015.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_04.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_04.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_020.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_020.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_speed.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_speed.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_021.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_021.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_004.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_004.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_005.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_005.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_09.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_09.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_022.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_022.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_06.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_06.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_003.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_003.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_side.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_side.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_020.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_020.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_spass_unlock_succeed.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_spass_unlock_succeed.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_006.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_006.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_023.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_023.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_017.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_017.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_002.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_002.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_021.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_021.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_016.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_016.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_013.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_013.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_018.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_018.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_034.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_034.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_08.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_08.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_029.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_029.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_001.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_001.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_032.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_032.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_02.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_02.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_11.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_11.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_004.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_004.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_016.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_016.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_short.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_short.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_007.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_007.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_010.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_010.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_15.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_15.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_023.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_023.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_08.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_08.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_028.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_028.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_025.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_025.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_023.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_023.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_014.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_014.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_019.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_019.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_003.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_003.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_016.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_016.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_006.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_006.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_020.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_020.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_022.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_022.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_009.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_009.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_017.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_017.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_001.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_001.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_010.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_010.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_013.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_013.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_02.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_02.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_012.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_012.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_010.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_010.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_024.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_024.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_026.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_026.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_012.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_012.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_027.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_027.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_14.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_14.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_04.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_04.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_027.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_027.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_007.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_007.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_011.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_011.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_05.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_05.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_013.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_013.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_homekey.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_homekey.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_03.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_03.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_030.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_030.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_12.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_12.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_06.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_06.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_09.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_09.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_01.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_01.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_011.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_011.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_unlock_succeed.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_unlock_succeed.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_031.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_031.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_014.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_014.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_009.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_009.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_028.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_028.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_005.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_005.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_015.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_015.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_025.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_025.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_008.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_008.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_029.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_029.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_026.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_026.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_015.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_015.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_007.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_007.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_019.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_019.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_10.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_10.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_07.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_07.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_001.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_001.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_side_right.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_side_right.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_002.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_002.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_scan_01.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_scan_01.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_03.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_03.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_022.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_022.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_018.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_018.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_008.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_008.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_024.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_024.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_nomatch.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_nomatch.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_07.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_07.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_009.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_009.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_011.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_011.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_006.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_006.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_005.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_005.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_003.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_003.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_lock_line.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_lock_line.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_033.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_033.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_diagonal.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_diagonal.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fingerprint_error_icon_default.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/fingerprint_error_icon_default.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_012.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_012.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_017.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_017.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_008.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_008.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_014.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_014.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_dot_030.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/highlight_dot_030.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finger_print_dot_025.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/finger_print_dot_025.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_024.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_024.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_021.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_021.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_unlock_dot.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_unlock_dot.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_13.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_13.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/circle_002.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/circle_002.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/spass_mismatch_10.png",
+        "source": "/home/tuyenpx/Desktop/PhotoEditor/sourcesample/AppLockerMaster-master/app/src/main/res/drawable-xhdpi/spass_mismatch_10.png"
+    }
+]
